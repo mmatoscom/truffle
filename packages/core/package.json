@@ -49,7 +49,6 @@
     "@truffle/resolver": "^7.0.16",
     "@truffle/source-fetcher": "^0.5.1",
     "@truffle/workflow-compile": "^3.2.17",
-    "app-module-path": "^2.2.0",
     "chai": "^4.2.0",
     "colors": "^1.4.0",
     "command-exists": "^1.2.8",
@@ -86,6 +85,7 @@
   },
   "devDependencies": {
     "@truffle/blockchain-utils": "^0.0.31",
+    "app-module-path": "^2.2.0",
     "chai-as-promised": "^7.1.1",
     "memorystream": "^0.3.1"
   },
